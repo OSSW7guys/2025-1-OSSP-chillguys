@@ -24,17 +24,9 @@
 
    ```bash
    cd frontend
+   # Install.md 파일에 작성된 순서대로 실행하세요
    ```
-2. 패키지 설치:
-
-   ```bash
-   pnpm install
-   ```
-3. 개발 서버 시작:
-
-   ```bash
-   pnpm run dev
-   ```
+---
 
 ### 2. 백엔드 (backend)
 
