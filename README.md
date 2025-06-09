@@ -20,11 +20,11 @@
 
 ### 1. 프론트엔드 (frontend)
 
-1. 프론트엔드 실행 가이드는 `frontend/Install.md` 파일에 정리되어 있습니다:
+1. 프론트엔드 실행 가이드는 `frontend/INSTALL.md` 파일에 정리되어 있습니다:
 
    ```bash
    cd frontend
-   # Install.md 파일에 작성된 순서대로 실행하세요
+   # INSTALL.md 파일에 작성된 순서대로 실행하세요
    ```
 ---
 
