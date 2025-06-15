@@ -20,25 +20,17 @@
 
 ### 1. 프론트엔드 (frontend)
 
-1. 레포지토리 루트에서 `frontend` 디렉터리로 이동합니다:
+1. 프론트엔드 실행 가이드는 `frontend/INSTALL.md` 파일에 정리되어 있습니다:
 
    ```bash
    cd frontend
+   # INSTALL.md 파일에 작성된 순서대로 실행하세요
    ```
-2. 패키지 설치:
-
-   ```bash
-   pnpm install
-   ```
-3. 개발 서버 시작:
-
-   ```bash
-   pnpm run dev
-   ```
+---
 
 ### 2. 백엔드 (backend)
 
-백엔드 실행 및 배포 명령은 `backend/command.txt` 파일에 정리되어 있습니다.
+백엔드 실행 가이드는 `backend/command.txt` 파일에 정리되어 있습니다.
 
 ```bash
 cd backend
